@@ -1,0 +1,39 @@
+
+    
+    .blog{
+        width: 50%;
+        background: brown;
+    }
+        .blog_heading{
+            color: red;
+            font-size:large;
+        text-align: right;
+
+        
+        }
+        .blog_details{
+            color:aquamarine;
+            text-align: center;
+        }
+        .blog_details span{
+            color: blueviolet;
+            font-size: 30px;
+        }
+        .read_more{
+            
+    color: red
+        }
+        .blog_heading{
+            !important;
+            color:yellow;
+            text-align:center;
+
+        }
+    .open a
+    {
+        width: 200px;
+        height: 400px;
+        background: red;
+        color: antiquewhite;
+
+    }
